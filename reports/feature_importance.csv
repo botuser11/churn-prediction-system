@@ -1,0 +1,16 @@
+feature,importance
+Contract_Month-to-month,0.3422750068843455
+tenure,0.1325950356810971
+TotalCharges,0.12141934648746075
+MonthlyCharges,0.1064817224536055
+InternetService_Fiber optic,0.077853944674924
+OnlineSecurity_No,0.06182115756386014
+PaymentMethod_Electronic check,0.040613638163950264
+TechSupport_No,0.034223637861847414
+PaperlessBilling_Yes,0.010438907005719901
+MultipleLines_No,0.009480587575698585
+OnlineBackup_No,0.008791762516119605
+PaperlessBilling_No,0.008344451381322945
+SeniorCitizen,0.006684783796378303
+StreamingMovies_Yes,0.005136305673211354
+Contract_Two year,0.0046014510377083125

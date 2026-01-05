@@ -1,0 +1,14 @@
+{
+  "roc_auc_val": 0.8362435092614119,
+  "roc_auc_test": 0.8425844118938748,
+  "n_train": 4225,
+  "n_val": 1409,
+  "n_test": 1409,
+  "model_path": "models/final_model.joblib",
+  "split_path": "reports/split_indices.json",
+  "probas_path": "reports/probas_lr.npz",
+  "pr_auc_val": 0.6424141899636456,
+  "pr_auc_test": 0.6331710424354436,
+  "brier_val": 0.16798033990828865,
+  "brier_test": 0.1676971269151455
+}

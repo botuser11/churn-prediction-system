@@ -1,0 +1,1463 @@
+{
+  "tuning_on": "val",
+  "cost_fp": 10.0,
+  "cost_fn": 100.0,
+  "best_threshold_by_cost": {
+    "threshold": 0.16499999999999998,
+    "tn": 421,
+    "fp": 614,
+    "fn": 12,
+    "tp": 362,
+    "expected_cost": 7340.0
+  },
+  "cost_curve": [
+    {
+      "threshold": 0.05,
+      "tn": 219,
+      "fp": 816,
+      "fn": 4,
+      "tp": 370,
+      "expected_cost": 8560.0
+    },
+    {
+      "threshold": 0.055,
+      "tn": 231,
+      "fp": 804,
+      "fn": 5,
+      "tp": 369,
+      "expected_cost": 8540.0
+    },
+    {
+      "threshold": 0.06,
+      "tn": 247,
+      "fp": 788,
+      "fn": 6,
+      "tp": 368,
+      "expected_cost": 8480.0
+    },
+    {
+      "threshold": 0.065,
+      "tn": 257,
+      "fp": 778,
+      "fn": 6,
+      "tp": 368,
+      "expected_cost": 8380.0
+    },
+    {
+      "threshold": 0.07,
+      "tn": 268,
+      "fp": 767,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 8470.0
+    },
+    {
+      "threshold": 0.075,
+      "tn": 282,
+      "fp": 753,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 8330.0
+    },
+    {
+      "threshold": 0.08,
+      "tn": 287,
+      "fp": 748,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 8280.0
+    },
+    {
+      "threshold": 0.08499999999999999,
+      "tn": 301,
+      "fp": 734,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 8140.0
+    },
+    {
+      "threshold": 0.09,
+      "tn": 308,
+      "fp": 727,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 8070.0
+    },
+    {
+      "threshold": 0.095,
+      "tn": 324,
+      "fp": 711,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 7910.0
+    },
+    {
+      "threshold": 0.09999999999999999,
+      "tn": 333,
+      "fp": 702,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 7820.0
+    },
+    {
+      "threshold": 0.105,
+      "tn": 341,
+      "fp": 694,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 7740.0
+    },
+    {
+      "threshold": 0.10999999999999999,
+      "tn": 347,
+      "fp": 688,
+      "fn": 8,
+      "tp": 366,
+      "expected_cost": 7680.0
+    },
+    {
+      "threshold": 0.11499999999999999,
+      "tn": 358,
+      "fp": 677,
+      "fn": 9,
+      "tp": 365,
+      "expected_cost": 7670.0
+    },
+    {
+      "threshold": 0.12,
+      "tn": 363,
+      "fp": 672,
+      "fn": 11,
+      "tp": 363,
+      "expected_cost": 7820.0
+    },
+    {
+      "threshold": 0.12499999999999999,
+      "tn": 368,
+      "fp": 667,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7870.0
+    },
+    {
+      "threshold": 0.13,
+      "tn": 375,
+      "fp": 660,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7800.0
+    },
+    {
+      "threshold": 0.135,
+      "tn": 384,
+      "fp": 651,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7710.0
+    },
+    {
+      "threshold": 0.13999999999999999,
+      "tn": 392,
+      "fp": 643,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7630.0
+    },
+    {
+      "threshold": 0.145,
+      "tn": 395,
+      "fp": 640,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7600.0
+    },
+    {
+      "threshold": 0.14999999999999997,
+      "tn": 403,
+      "fp": 632,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7520.0
+    },
+    {
+      "threshold": 0.15499999999999997,
+      "tn": 408,
+      "fp": 627,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7470.0
+    },
+    {
+      "threshold": 0.15999999999999998,
+      "tn": 412,
+      "fp": 623,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7430.0
+    },
+    {
+      "threshold": 0.16499999999999998,
+      "tn": 421,
+      "fp": 614,
+      "fn": 12,
+      "tp": 362,
+      "expected_cost": 7340.0
+    },
+    {
+      "threshold": 0.16999999999999998,
+      "tn": 424,
+      "fp": 611,
+      "fn": 14,
+      "tp": 360,
+      "expected_cost": 7510.0
+    },
+    {
+      "threshold": 0.175,
+      "tn": 431,
+      "fp": 604,
+      "fn": 16,
+      "tp": 358,
+      "expected_cost": 7640.0
+    },
+    {
+      "threshold": 0.18,
+      "tn": 437,
+      "fp": 598,
+      "fn": 18,
+      "tp": 356,
+      "expected_cost": 7780.0
+    },
+    {
+      "threshold": 0.185,
+      "tn": 446,
+      "fp": 589,
+      "fn": 20,
+      "tp": 354,
+      "expected_cost": 7890.0
+    },
+    {
+      "threshold": 0.19,
+      "tn": 453,
+      "fp": 582,
+      "fn": 20,
+      "tp": 354,
+      "expected_cost": 7820.0
+    },
+    {
+      "threshold": 0.195,
+      "tn": 458,
+      "fp": 577,
+      "fn": 21,
+      "tp": 353,
+      "expected_cost": 7870.0
+    },
+    {
+      "threshold": 0.19999999999999996,
+      "tn": 460,
+      "fp": 575,
+      "fn": 21,
+      "tp": 353,
+      "expected_cost": 7850.0
+    },
+    {
+      "threshold": 0.20499999999999996,
+      "tn": 463,
+      "fp": 572,
+      "fn": 23,
+      "tp": 351,
+      "expected_cost": 8020.0
+    },
+    {
+      "threshold": 0.20999999999999996,
+      "tn": 467,
+      "fp": 568,
+      "fn": 24,
+      "tp": 350,
+      "expected_cost": 8080.0
+    },
+    {
+      "threshold": 0.21499999999999997,
+      "tn": 473,
+      "fp": 562,
+      "fn": 26,
+      "tp": 348,
+      "expected_cost": 8220.0
+    },
+    {
+      "threshold": 0.21999999999999997,
+      "tn": 479,
+      "fp": 556,
+      "fn": 27,
+      "tp": 347,
+      "expected_cost": 8260.0
+    },
+    {
+      "threshold": 0.22499999999999998,
+      "tn": 483,
+      "fp": 552,
+      "fn": 27,
+      "tp": 347,
+      "expected_cost": 8220.0
+    },
+    {
+      "threshold": 0.22999999999999998,
+      "tn": 487,
+      "fp": 548,
+      "fn": 27,
+      "tp": 347,
+      "expected_cost": 8180.0
+    },
+    {
+      "threshold": 0.235,
+      "tn": 492,
+      "fp": 543,
+      "fn": 27,
+      "tp": 347,
+      "expected_cost": 8130.0
+    },
+    {
+      "threshold": 0.24,
+      "tn": 495,
+      "fp": 540,
+      "fn": 28,
+      "tp": 346,
+      "expected_cost": 8200.0
+    },
+    {
+      "threshold": 0.245,
+      "tn": 504,
+      "fp": 531,
+      "fn": 29,
+      "tp": 345,
+      "expected_cost": 8210.0
+    },
+    {
+      "threshold": 0.24999999999999994,
+      "tn": 508,
+      "fp": 527,
+      "fn": 30,
+      "tp": 344,
+      "expected_cost": 8270.0
+    },
+    {
+      "threshold": 0.25499999999999995,
+      "tn": 512,
+      "fp": 523,
+      "fn": 30,
+      "tp": 344,
+      "expected_cost": 8230.0
+    },
+    {
+      "threshold": 0.25999999999999995,
+      "tn": 517,
+      "fp": 518,
+      "fn": 31,
+      "tp": 343,
+      "expected_cost": 8280.0
+    },
+    {
+      "threshold": 0.26499999999999996,
+      "tn": 521,
+      "fp": 514,
+      "fn": 31,
+      "tp": 343,
+      "expected_cost": 8240.0
+    },
+    {
+      "threshold": 0.26999999999999996,
+      "tn": 527,
+      "fp": 508,
+      "fn": 31,
+      "tp": 343,
+      "expected_cost": 8180.0
+    },
+    {
+      "threshold": 0.27499999999999997,
+      "tn": 533,
+      "fp": 502,
+      "fn": 32,
+      "tp": 342,
+      "expected_cost": 8220.0
+    },
+    {
+      "threshold": 0.27999999999999997,
+      "tn": 542,
+      "fp": 493,
+      "fn": 32,
+      "tp": 342,
+      "expected_cost": 8130.0
+    },
+    {
+      "threshold": 0.285,
+      "tn": 547,
+      "fp": 488,
+      "fn": 32,
+      "tp": 342,
+      "expected_cost": 8080.0
+    },
+    {
+      "threshold": 0.29,
+      "tn": 556,
+      "fp": 479,
+      "fn": 33,
+      "tp": 341,
+      "expected_cost": 8090.0
+    },
+    {
+      "threshold": 0.295,
+      "tn": 557,
+      "fp": 478,
+      "fn": 33,
+      "tp": 341,
+      "expected_cost": 8080.0
+    },
+    {
+      "threshold": 0.3,
+      "tn": 564,
+      "fp": 471,
+      "fn": 33,
+      "tp": 341,
+      "expected_cost": 8010.0
+    },
+    {
+      "threshold": 0.30499999999999994,
+      "tn": 569,
+      "fp": 466,
+      "fn": 34,
+      "tp": 340,
+      "expected_cost": 8060.0
+    },
+    {
+      "threshold": 0.30999999999999994,
+      "tn": 571,
+      "fp": 464,
+      "fn": 35,
+      "tp": 339,
+      "expected_cost": 8140.0
+    },
+    {
+      "threshold": 0.31499999999999995,
+      "tn": 573,
+      "fp": 462,
+      "fn": 39,
+      "tp": 335,
+      "expected_cost": 8520.0
+    },
+    {
+      "threshold": 0.31999999999999995,
+      "tn": 579,
+      "fp": 456,
+      "fn": 40,
+      "tp": 334,
+      "expected_cost": 8560.0
+    },
+    {
+      "threshold": 0.32499999999999996,
+      "tn": 583,
+      "fp": 452,
+      "fn": 40,
+      "tp": 334,
+      "expected_cost": 8520.0
+    },
+    {
+      "threshold": 0.32999999999999996,
+      "tn": 588,
+      "fp": 447,
+      "fn": 41,
+      "tp": 333,
+      "expected_cost": 8570.0
+    },
+    {
+      "threshold": 0.33499999999999996,
+      "tn": 593,
+      "fp": 442,
+      "fn": 41,
+      "tp": 333,
+      "expected_cost": 8520.0
+    },
+    {
+      "threshold": 0.33999999999999997,
+      "tn": 595,
+      "fp": 440,
+      "fn": 42,
+      "tp": 332,
+      "expected_cost": 8600.0
+    },
+    {
+      "threshold": 0.3449999999999999,
+      "tn": 599,
+      "fp": 436,
+      "fn": 43,
+      "tp": 331,
+      "expected_cost": 8660.0
+    },
+    {
+      "threshold": 0.3499999999999999,
+      "tn": 601,
+      "fp": 434,
+      "fn": 45,
+      "tp": 329,
+      "expected_cost": 8840.0
+    },
+    {
+      "threshold": 0.3549999999999999,
+      "tn": 607,
+      "fp": 428,
+      "fn": 45,
+      "tp": 329,
+      "expected_cost": 8780.0
+    },
+    {
+      "threshold": 0.35999999999999993,
+      "tn": 608,
+      "fp": 427,
+      "fn": 45,
+      "tp": 329,
+      "expected_cost": 8770.0
+    },
+    {
+      "threshold": 0.36499999999999994,
+      "tn": 612,
+      "fp": 423,
+      "fn": 45,
+      "tp": 329,
+      "expected_cost": 8730.0
+    },
+    {
+      "threshold": 0.36999999999999994,
+      "tn": 623,
+      "fp": 412,
+      "fn": 45,
+      "tp": 329,
+      "expected_cost": 8620.0
+    },
+    {
+      "threshold": 0.37499999999999994,
+      "tn": 629,
+      "fp": 406,
+      "fn": 47,
+      "tp": 327,
+      "expected_cost": 8760.0
+    },
+    {
+      "threshold": 0.37999999999999995,
+      "tn": 631,
+      "fp": 404,
+      "fn": 48,
+      "tp": 326,
+      "expected_cost": 8840.0
+    },
+    {
+      "threshold": 0.38499999999999995,
+      "tn": 634,
+      "fp": 401,
+      "fn": 49,
+      "tp": 325,
+      "expected_cost": 8910.0
+    },
+    {
+      "threshold": 0.38999999999999996,
+      "tn": 643,
+      "fp": 392,
+      "fn": 49,
+      "tp": 325,
+      "expected_cost": 8820.0
+    },
+    {
+      "threshold": 0.39499999999999996,
+      "tn": 652,
+      "fp": 383,
+      "fn": 51,
+      "tp": 323,
+      "expected_cost": 8930.0
+    },
+    {
+      "threshold": 0.3999999999999999,
+      "tn": 660,
+      "fp": 375,
+      "fn": 55,
+      "tp": 319,
+      "expected_cost": 9250.0
+    },
+    {
+      "threshold": 0.4049999999999999,
+      "tn": 664,
+      "fp": 371,
+      "fn": 57,
+      "tp": 317,
+      "expected_cost": 9410.0
+    },
+    {
+      "threshold": 0.4099999999999999,
+      "tn": 673,
+      "fp": 362,
+      "fn": 57,
+      "tp": 317,
+      "expected_cost": 9320.0
+    },
+    {
+      "threshold": 0.4149999999999999,
+      "tn": 678,
+      "fp": 357,
+      "fn": 60,
+      "tp": 314,
+      "expected_cost": 9570.0
+    },
+    {
+      "threshold": 0.41999999999999993,
+      "tn": 688,
+      "fp": 347,
+      "fn": 63,
+      "tp": 311,
+      "expected_cost": 9770.0
+    },
+    {
+      "threshold": 0.42499999999999993,
+      "tn": 693,
+      "fp": 342,
+      "fn": 64,
+      "tp": 310,
+      "expected_cost": 9820.0
+    },
+    {
+      "threshold": 0.42999999999999994,
+      "tn": 695,
+      "fp": 340,
+      "fn": 64,
+      "tp": 310,
+      "expected_cost": 9800.0
+    },
+    {
+      "threshold": 0.43499999999999994,
+      "tn": 699,
+      "fp": 336,
+      "fn": 65,
+      "tp": 309,
+      "expected_cost": 9860.0
+    },
+    {
+      "threshold": 0.43999999999999995,
+      "tn": 704,
+      "fp": 331,
+      "fn": 65,
+      "tp": 309,
+      "expected_cost": 9810.0
+    },
+    {
+      "threshold": 0.44499999999999995,
+      "tn": 711,
+      "fp": 324,
+      "fn": 67,
+      "tp": 307,
+      "expected_cost": 9940.0
+    },
+    {
+      "threshold": 0.4499999999999999,
+      "tn": 719,
+      "fp": 316,
+      "fn": 67,
+      "tp": 307,
+      "expected_cost": 9860.0
+    },
+    {
+      "threshold": 0.4549999999999999,
+      "tn": 724,
+      "fp": 311,
+      "fn": 68,
+      "tp": 306,
+      "expected_cost": 9910.0
+    },
+    {
+      "threshold": 0.4599999999999999,
+      "tn": 728,
+      "fp": 307,
+      "fn": 68,
+      "tp": 306,
+      "expected_cost": 9870.0
+    },
+    {
+      "threshold": 0.4649999999999999,
+      "tn": 732,
+      "fp": 303,
+      "fn": 70,
+      "tp": 304,
+      "expected_cost": 10030.0
+    },
+    {
+      "threshold": 0.4699999999999999,
+      "tn": 736,
+      "fp": 299,
+      "fn": 71,
+      "tp": 303,
+      "expected_cost": 10090.0
+    },
+    {
+      "threshold": 0.4749999999999999,
+      "tn": 741,
+      "fp": 294,
+      "fn": 71,
+      "tp": 303,
+      "expected_cost": 10040.0
+    },
+    {
+      "threshold": 0.4799999999999999,
+      "tn": 742,
+      "fp": 293,
+      "fn": 74,
+      "tp": 300,
+      "expected_cost": 10330.0
+    },
+    {
+      "threshold": 0.48499999999999993,
+      "tn": 749,
+      "fp": 286,
+      "fn": 75,
+      "tp": 299,
+      "expected_cost": 10360.0
+    },
+    {
+      "threshold": 0.48999999999999994,
+      "tn": 751,
+      "fp": 284,
+      "fn": 76,
+      "tp": 298,
+      "expected_cost": 10440.0
+    },
+    {
+      "threshold": 0.49499999999999994,
+      "tn": 753,
+      "fp": 282,
+      "fn": 77,
+      "tp": 297,
+      "expected_cost": 10520.0
+    },
+    {
+      "threshold": 0.49999999999999994,
+      "tn": 759,
+      "fp": 276,
+      "fn": 79,
+      "tp": 295,
+      "expected_cost": 10660.0
+    },
+    {
+      "threshold": 0.5049999999999999,
+      "tn": 759,
+      "fp": 276,
+      "fn": 80,
+      "tp": 294,
+      "expected_cost": 10760.0
+    },
+    {
+      "threshold": 0.5099999999999999,
+      "tn": 761,
+      "fp": 274,
+      "fn": 82,
+      "tp": 292,
+      "expected_cost": 10940.0
+    },
+    {
+      "threshold": 0.5149999999999999,
+      "tn": 764,
+      "fp": 271,
+      "fn": 83,
+      "tp": 291,
+      "expected_cost": 11010.0
+    },
+    {
+      "threshold": 0.5199999999999999,
+      "tn": 768,
+      "fp": 267,
+      "fn": 85,
+      "tp": 289,
+      "expected_cost": 11170.0
+    },
+    {
+      "threshold": 0.5249999999999999,
+      "tn": 772,
+      "fp": 263,
+      "fn": 89,
+      "tp": 285,
+      "expected_cost": 11530.0
+    },
+    {
+      "threshold": 0.5299999999999999,
+      "tn": 780,
+      "fp": 255,
+      "fn": 90,
+      "tp": 284,
+      "expected_cost": 11550.0
+    },
+    {
+      "threshold": 0.5349999999999999,
+      "tn": 785,
+      "fp": 250,
+      "fn": 92,
+      "tp": 282,
+      "expected_cost": 11700.0
+    },
+    {
+      "threshold": 0.5399999999999999,
+      "tn": 787,
+      "fp": 248,
+      "fn": 93,
+      "tp": 281,
+      "expected_cost": 11780.0
+    },
+    {
+      "threshold": 0.5449999999999999,
+      "tn": 793,
+      "fp": 242,
+      "fn": 94,
+      "tp": 280,
+      "expected_cost": 11820.0
+    },
+    {
+      "threshold": 0.5499999999999999,
+      "tn": 795,
+      "fp": 240,
+      "fn": 95,
+      "tp": 279,
+      "expected_cost": 11900.0
+    },
+    {
+      "threshold": 0.5549999999999999,
+      "tn": 796,
+      "fp": 239,
+      "fn": 98,
+      "tp": 276,
+      "expected_cost": 12190.0
+    },
+    {
+      "threshold": 0.5599999999999999,
+      "tn": 801,
+      "fp": 234,
+      "fn": 98,
+      "tp": 276,
+      "expected_cost": 12140.0
+    },
+    {
+      "threshold": 0.565,
+      "tn": 807,
+      "fp": 228,
+      "fn": 99,
+      "tp": 275,
+      "expected_cost": 12180.0
+    },
+    {
+      "threshold": 0.57,
+      "tn": 810,
+      "fp": 225,
+      "fn": 101,
+      "tp": 273,
+      "expected_cost": 12350.0
+    },
+    {
+      "threshold": 0.575,
+      "tn": 815,
+      "fp": 220,
+      "fn": 101,
+      "tp": 273,
+      "expected_cost": 12300.0
+    },
+    {
+      "threshold": 0.58,
+      "tn": 820,
+      "fp": 215,
+      "fn": 104,
+      "tp": 270,
+      "expected_cost": 12550.0
+    },
+    {
+      "threshold": 0.585,
+      "tn": 824,
+      "fp": 211,
+      "fn": 108,
+      "tp": 266,
+      "expected_cost": 12910.0
+    },
+    {
+      "threshold": 0.59,
+      "tn": 824,
+      "fp": 211,
+      "fn": 109,
+      "tp": 265,
+      "expected_cost": 13010.0
+    },
+    {
+      "threshold": 0.595,
+      "tn": 827,
+      "fp": 208,
+      "fn": 111,
+      "tp": 263,
+      "expected_cost": 13180.0
+    },
+    {
+      "threshold": 0.6,
+      "tn": 831,
+      "fp": 204,
+      "fn": 111,
+      "tp": 263,
+      "expected_cost": 13140.0
+    },
+    {
+      "threshold": 0.605,
+      "tn": 838,
+      "fp": 197,
+      "fn": 113,
+      "tp": 261,
+      "expected_cost": 13270.0
+    },
+    {
+      "threshold": 0.61,
+      "tn": 846,
+      "fp": 189,
+      "fn": 115,
+      "tp": 259,
+      "expected_cost": 13390.0
+    },
+    {
+      "threshold": 0.615,
+      "tn": 848,
+      "fp": 187,
+      "fn": 117,
+      "tp": 257,
+      "expected_cost": 13570.0
+    },
+    {
+      "threshold": 0.62,
+      "tn": 850,
+      "fp": 185,
+      "fn": 117,
+      "tp": 257,
+      "expected_cost": 13550.0
+    },
+    {
+      "threshold": 0.625,
+      "tn": 854,
+      "fp": 181,
+      "fn": 119,
+      "tp": 255,
+      "expected_cost": 13710.0
+    },
+    {
+      "threshold": 0.63,
+      "tn": 858,
+      "fp": 177,
+      "fn": 122,
+      "tp": 252,
+      "expected_cost": 13970.0
+    },
+    {
+      "threshold": 0.635,
+      "tn": 862,
+      "fp": 173,
+      "fn": 124,
+      "tp": 250,
+      "expected_cost": 14130.0
+    },
+    {
+      "threshold": 0.6399999999999999,
+      "tn": 865,
+      "fp": 170,
+      "fn": 128,
+      "tp": 246,
+      "expected_cost": 14500.0
+    },
+    {
+      "threshold": 0.6449999999999999,
+      "tn": 871,
+      "fp": 164,
+      "fn": 132,
+      "tp": 242,
+      "expected_cost": 14840.0
+    },
+    {
+      "threshold": 0.6499999999999999,
+      "tn": 872,
+      "fp": 163,
+      "fn": 133,
+      "tp": 241,
+      "expected_cost": 14930.0
+    },
+    {
+      "threshold": 0.6549999999999999,
+      "tn": 874,
+      "fp": 161,
+      "fn": 136,
+      "tp": 238,
+      "expected_cost": 15210.0
+    },
+    {
+      "threshold": 0.6599999999999999,
+      "tn": 878,
+      "fp": 157,
+      "fn": 139,
+      "tp": 235,
+      "expected_cost": 15470.0
+    },
+    {
+      "threshold": 0.6649999999999999,
+      "tn": 881,
+      "fp": 154,
+      "fn": 140,
+      "tp": 234,
+      "expected_cost": 15540.0
+    },
+    {
+      "threshold": 0.6699999999999999,
+      "tn": 887,
+      "fp": 148,
+      "fn": 143,
+      "tp": 231,
+      "expected_cost": 15780.0
+    },
+    {
+      "threshold": 0.6749999999999999,
+      "tn": 890,
+      "fp": 145,
+      "fn": 147,
+      "tp": 227,
+      "expected_cost": 16150.0
+    },
+    {
+      "threshold": 0.6799999999999999,
+      "tn": 893,
+      "fp": 142,
+      "fn": 149,
+      "tp": 225,
+      "expected_cost": 16320.0
+    },
+    {
+      "threshold": 0.6849999999999999,
+      "tn": 896,
+      "fp": 139,
+      "fn": 151,
+      "tp": 223,
+      "expected_cost": 16490.0
+    },
+    {
+      "threshold": 0.69,
+      "tn": 898,
+      "fp": 137,
+      "fn": 151,
+      "tp": 223,
+      "expected_cost": 16470.0
+    },
+    {
+      "threshold": 0.695,
+      "tn": 902,
+      "fp": 133,
+      "fn": 153,
+      "tp": 221,
+      "expected_cost": 16630.0
+    },
+    {
+      "threshold": 0.7,
+      "tn": 908,
+      "fp": 127,
+      "fn": 155,
+      "tp": 219,
+      "expected_cost": 16770.0
+    },
+    {
+      "threshold": 0.705,
+      "tn": 914,
+      "fp": 121,
+      "fn": 160,
+      "tp": 214,
+      "expected_cost": 17210.0
+    },
+    {
+      "threshold": 0.71,
+      "tn": 915,
+      "fp": 120,
+      "fn": 163,
+      "tp": 211,
+      "expected_cost": 17500.0
+    },
+    {
+      "threshold": 0.715,
+      "tn": 920,
+      "fp": 115,
+      "fn": 164,
+      "tp": 210,
+      "expected_cost": 17550.0
+    },
+    {
+      "threshold": 0.72,
+      "tn": 924,
+      "fp": 111,
+      "fn": 167,
+      "tp": 207,
+      "expected_cost": 17810.0
+    },
+    {
+      "threshold": 0.725,
+      "tn": 927,
+      "fp": 108,
+      "fn": 171,
+      "tp": 203,
+      "expected_cost": 18180.0
+    },
+    {
+      "threshold": 0.73,
+      "tn": 933,
+      "fp": 102,
+      "fn": 173,
+      "tp": 201,
+      "expected_cost": 18320.0
+    },
+    {
+      "threshold": 0.735,
+      "tn": 934,
+      "fp": 101,
+      "fn": 176,
+      "tp": 198,
+      "expected_cost": 18610.0
+    },
+    {
+      "threshold": 0.74,
+      "tn": 937,
+      "fp": 98,
+      "fn": 177,
+      "tp": 197,
+      "expected_cost": 18680.0
+    },
+    {
+      "threshold": 0.7449999999999999,
+      "tn": 940,
+      "fp": 95,
+      "fn": 180,
+      "tp": 194,
+      "expected_cost": 18950.0
+    },
+    {
+      "threshold": 0.7499999999999999,
+      "tn": 944,
+      "fp": 91,
+      "fn": 181,
+      "tp": 193,
+      "expected_cost": 19010.0
+    },
+    {
+      "threshold": 0.7549999999999999,
+      "tn": 948,
+      "fp": 87,
+      "fn": 183,
+      "tp": 191,
+      "expected_cost": 19170.0
+    },
+    {
+      "threshold": 0.7599999999999999,
+      "tn": 950,
+      "fp": 85,
+      "fn": 188,
+      "tp": 186,
+      "expected_cost": 19650.0
+    },
+    {
+      "threshold": 0.7649999999999999,
+      "tn": 952,
+      "fp": 83,
+      "fn": 190,
+      "tp": 184,
+      "expected_cost": 19830.0
+    },
+    {
+      "threshold": 0.7699999999999999,
+      "tn": 955,
+      "fp": 80,
+      "fn": 194,
+      "tp": 180,
+      "expected_cost": 20200.0
+    },
+    {
+      "threshold": 0.7749999999999999,
+      "tn": 957,
+      "fp": 78,
+      "fn": 200,
+      "tp": 174,
+      "expected_cost": 20780.0
+    },
+    {
+      "threshold": 0.7799999999999999,
+      "tn": 964,
+      "fp": 71,
+      "fn": 208,
+      "tp": 166,
+      "expected_cost": 21510.0
+    },
+    {
+      "threshold": 0.7849999999999999,
+      "tn": 968,
+      "fp": 67,
+      "fn": 213,
+      "tp": 161,
+      "expected_cost": 21970.0
+    },
+    {
+      "threshold": 0.7899999999999999,
+      "tn": 974,
+      "fp": 61,
+      "fn": 217,
+      "tp": 157,
+      "expected_cost": 22310.0
+    },
+    {
+      "threshold": 0.7949999999999999,
+      "tn": 977,
+      "fp": 58,
+      "fn": 223,
+      "tp": 151,
+      "expected_cost": 22880.0
+    },
+    {
+      "threshold": 0.7999999999999999,
+      "tn": 980,
+      "fp": 55,
+      "fn": 227,
+      "tp": 147,
+      "expected_cost": 23250.0
+    },
+    {
+      "threshold": 0.8049999999999999,
+      "tn": 982,
+      "fp": 53,
+      "fn": 233,
+      "tp": 141,
+      "expected_cost": 23830.0
+    },
+    {
+      "threshold": 0.8099999999999999,
+      "tn": 984,
+      "fp": 51,
+      "fn": 244,
+      "tp": 130,
+      "expected_cost": 24910.0
+    },
+    {
+      "threshold": 0.815,
+      "tn": 988,
+      "fp": 47,
+      "fn": 252,
+      "tp": 122,
+      "expected_cost": 25670.0
+    },
+    {
+      "threshold": 0.82,
+      "tn": 991,
+      "fp": 44,
+      "fn": 255,
+      "tp": 119,
+      "expected_cost": 25940.0
+    },
+    {
+      "threshold": 0.825,
+      "tn": 996,
+      "fp": 39,
+      "fn": 265,
+      "tp": 109,
+      "expected_cost": 26890.0
+    },
+    {
+      "threshold": 0.83,
+      "tn": 996,
+      "fp": 39,
+      "fn": 271,
+      "tp": 103,
+      "expected_cost": 27490.0
+    },
+    {
+      "threshold": 0.835,
+      "tn": 1002,
+      "fp": 33,
+      "fn": 274,
+      "tp": 100,
+      "expected_cost": 27730.0
+    },
+    {
+      "threshold": 0.84,
+      "tn": 1004,
+      "fp": 31,
+      "fn": 282,
+      "tp": 92,
+      "expected_cost": 28510.0
+    },
+    {
+      "threshold": 0.845,
+      "tn": 1006,
+      "fp": 29,
+      "fn": 284,
+      "tp": 90,
+      "expected_cost": 28690.0
+    },
+    {
+      "threshold": 0.8499999999999999,
+      "tn": 1010,
+      "fp": 25,
+      "fn": 291,
+      "tp": 83,
+      "expected_cost": 29350.0
+    },
+    {
+      "threshold": 0.8549999999999999,
+      "tn": 1012,
+      "fp": 23,
+      "fn": 303,
+      "tp": 71,
+      "expected_cost": 30530.0
+    },
+    {
+      "threshold": 0.8599999999999999,
+      "tn": 1013,
+      "fp": 22,
+      "fn": 309,
+      "tp": 65,
+      "expected_cost": 31120.0
+    },
+    {
+      "threshold": 0.8649999999999999,
+      "tn": 1014,
+      "fp": 21,
+      "fn": 317,
+      "tp": 57,
+      "expected_cost": 31910.0
+    },
+    {
+      "threshold": 0.8699999999999999,
+      "tn": 1017,
+      "fp": 18,
+      "fn": 324,
+      "tp": 50,
+      "expected_cost": 32580.0
+    },
+    {
+      "threshold": 0.8749999999999999,
+      "tn": 1020,
+      "fp": 15,
+      "fn": 331,
+      "tp": 43,
+      "expected_cost": 33250.0
+    },
+    {
+      "threshold": 0.8799999999999999,
+      "tn": 1024,
+      "fp": 11,
+      "fn": 336,
+      "tp": 38,
+      "expected_cost": 33710.0
+    },
+    {
+      "threshold": 0.8849999999999999,
+      "tn": 1030,
+      "fp": 5,
+      "fn": 343,
+      "tp": 31,
+      "expected_cost": 34350.0
+    },
+    {
+      "threshold": 0.8899999999999999,
+      "tn": 1031,
+      "fp": 4,
+      "fn": 351,
+      "tp": 23,
+      "expected_cost": 35140.0
+    },
+    {
+      "threshold": 0.8949999999999999,
+      "tn": 1032,
+      "fp": 3,
+      "fn": 355,
+      "tp": 19,
+      "expected_cost": 35530.0
+    },
+    {
+      "threshold": 0.8999999999999999,
+      "tn": 1032,
+      "fp": 3,
+      "fn": 357,
+      "tp": 17,
+      "expected_cost": 35730.0
+    },
+    {
+      "threshold": 0.9049999999999999,
+      "tn": 1033,
+      "fp": 2,
+      "fn": 364,
+      "tp": 10,
+      "expected_cost": 36420.0
+    },
+    {
+      "threshold": 0.9099999999999999,
+      "tn": 1034,
+      "fp": 1,
+      "fn": 367,
+      "tp": 7,
+      "expected_cost": 36710.0
+    },
+    {
+      "threshold": 0.9149999999999999,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 367,
+      "tp": 7,
+      "expected_cost": 36700.0
+    },
+    {
+      "threshold": 0.9199999999999999,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 370,
+      "tp": 4,
+      "expected_cost": 37000.0
+    },
+    {
+      "threshold": 0.9249999999999999,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 373,
+      "tp": 1,
+      "expected_cost": 37300.0
+    },
+    {
+      "threshold": 0.9299999999999999,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 373,
+      "tp": 1,
+      "expected_cost": 37300.0
+    },
+    {
+      "threshold": 0.9349999999999999,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 374,
+      "tp": 0,
+      "expected_cost": 37400.0
+    },
+    {
+      "threshold": 0.94,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 374,
+      "tp": 0,
+      "expected_cost": 37400.0
+    },
+    {
+      "threshold": 0.945,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 374,
+      "tp": 0,
+      "expected_cost": 37400.0
+    },
+    {
+      "threshold": 0.95,
+      "tn": 1035,
+      "fp": 0,
+      "fn": 374,
+      "tp": 0,
+      "expected_cost": 37400.0
+    }
+  ]
+}

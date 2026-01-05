@@ -1,0 +1,8 @@
+{
+  "data_path": "data/raw/telco_churn.csv",
+  "target": "Churn",
+  "drop_cols": ["customerID"],
+  "positive_label": "Yes",
+  "model_path": "models/final_model.joblib",
+  "threshold": 0.575
+}

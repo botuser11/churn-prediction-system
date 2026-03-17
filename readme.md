@@ -2,7 +2,7 @@
 
 An end-to-end machine learning application for predicting customer churn in the telecom industry. Built with Python, scikit-learn, and Streamlit — combining a production-style ML pipeline with an interactive UI suitable for both technical and non-technical users.
 
-**Live demo:** *(add Streamlit Cloud link here after deployment)*
+**Live demo:** churn-prediction-system-dffqbps5hjvigpbjqukw3k.streamlit.app
 
 ---
 
